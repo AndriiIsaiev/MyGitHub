@@ -2,3 +2,6 @@
 ������
 Это новая строчка
 И еще 2 строчки
+This new line
+qqqqqqqqqqqqqq
+
